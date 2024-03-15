@@ -4,7 +4,7 @@
 #include <Conio.h>
 using namespace std;
 
-int score = 0;//initialisiation of score variable to keep track of score
+int score = 0;//initialisation of score variable to keep track of score
 
 void makeShapes(int value, int x, int y)//function to spawn shapes based on 
 //values in jewelsvalue array
